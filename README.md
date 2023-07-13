@@ -2,6 +2,7 @@
 
 <h2>Repo contains:</h2>
 <p>&bull; Assignment : Report file</p>
+<p>&bull; Video Presentation</p>
 
 <h2>Tools Used:</h2>
 <p>&bull; Adobe InDesign</p>
